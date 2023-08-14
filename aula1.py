@@ -1,10 +1,10 @@
 """"""
-DocString
-E escrever oq eu quiser
+DocString,
+E, escrever, oq, eu, quiser
 """"""
 
 ''''''
-Usar para escrever suas notas
+Usar, para, escrever, suas, notas
 ''''''
 
 
