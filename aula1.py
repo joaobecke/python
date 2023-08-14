@@ -1,18 +1,11 @@
-""""""
-DocString,
-E, escrever, oq, eu, quiser
-""""""
 
-''''''
-Usar, para, escrever, suas, notas
-''''''
-
-
-
+"""
+Esse codigo ta me fudendo!
+"""
+'''
+esse codigo nao ta mais me fudendo!!!!
+'''
 # Serve para comentarios
-
-
-print(
-    123
-) #No meio 
+print(123) #No meio 
 # Embaixo
+print(456)
